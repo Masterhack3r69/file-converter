@@ -71,3 +71,5 @@ python main.py ./src --font-size 8 --page-size LETTER --margin 0.5
 - Python 3.x
 - `reportlab`
 - `pathspec`
+
+![alt text](image.png)
